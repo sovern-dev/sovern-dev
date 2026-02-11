@@ -70,10 +70,6 @@
 
 ###
 
-<h1 align="left"></h1>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sovern-dev/sovern-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sovern-dev/sovern-dev/output/pacman-contribution-graph.svg">
